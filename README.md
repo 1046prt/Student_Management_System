@@ -30,4 +30,4 @@ Welcome to the **HTML, PHP, and SQL** Student Management System repository. This
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/1046prt/html_php_sql_crud.git
+   git clone https://github.com/1046prt/Student_Management_System
